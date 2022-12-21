@@ -1,0 +1,20 @@
+{
+    "project_name": "test-project",
+    "project_id": "{C681701A-A9EA-498D-84F0-40E6EA2764BB}",
+    "origin": "The primary repo for test-project goes here: i.e. http://www.mydomain.com",
+    "license": "What license test-project uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "test-project",
+    "summary": "A short description of test-project.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "test-project"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "test-project"
+}
