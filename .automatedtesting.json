@@ -1,0 +1,19 @@
+{
+    "REGISTER_ENGINES": [
+    ],
+    "REGISTER_PROJECTS": [
+    ],
+    "REGISTER_GEMS": [
+        "Gems/test-gem"
+    ],
+    "REGISTER_TEMPLATES": [
+        "Templates/test-template"
+    ],
+    "REGISTER_RESTRICTED": [
+    ],
+    "ENABLE_GEMS": [
+        "Gems/test-gem"
+    ],
+    "REPOS": [
+    ]
+}
